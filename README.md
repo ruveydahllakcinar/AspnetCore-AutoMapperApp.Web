@@ -1,3 +1,6 @@
+![automapper](automapper.png)
+
+
 # What is AutoMapper?
 
 * Automapper is a .NET based object mapping library. This library is used for data transfers and transformations in .NET projects. Automapper provides an easy and flexible method to transfer data from one model to another model or data from an entity class. Thus, it allows you to perform mapping operations between objects quickly and error-free.
